@@ -1,0 +1,10 @@
+accuracy
+model
+n_test
+n_total
+n_train
+positive_rate_test
+precision
+random_state
+recall
+test_size
